@@ -1,6 +1,6 @@
 print("This is a test file.")
 print("-----------------------")
-print("**********************")
+print("#######################")
 
 
 def add_numbers(a, b):
@@ -11,4 +11,3 @@ def add_numbers(a, b):
 def subtract_numbers(a, b):
     num = a - b
     return num
-
