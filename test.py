@@ -1,6 +1,5 @@
 print("This is a test file.")
 print("-----------------------")
-print("+++++++++++++++++++++++")
 
 
 def add_numbers(a, b):
